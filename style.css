@@ -1,0 +1,4 @@
+.heading {font-size: 23px;width: 100%;margin: 0px;}
+.note {font-size: 15px;color: darkkhaki;}
+.div {position: fixed;color: darkkhaki;bottom: 0;width: 100%;background-color: darkcyan;text-align: center;}
+canvas {border: 5px solid black;border-radius: 25px;}
